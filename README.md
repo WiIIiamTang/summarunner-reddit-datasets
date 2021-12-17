@@ -1,3 +1,3 @@
 # summarunner-reddit-datasets
 
-Clean and preprocessed datasets for Reddit-type texts in extractive text summarization. Used in https://github.com/WiIIiamTang/SummaRuNNer
+This contains the reddit stories dataset from https://aclanthology.org/E17-2008.pdf. The **abstractive** documents are used in https://github.com/WiIIiamTang/SummaRuNNer.
